@@ -1,0 +1,30 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Unity generated files
+sysinfo.txt
+
+# Visual Studio
+.vscode/
+.vs/
+*.sln
+*.csproj
+*.user
+*.unityproj
+
+# OS generated files
+.DS_Store
+*.swp
+*.tmp
+*.bak
+Thumbs.db
+
+# JetBrains Rider
+.idea/
+*.sln.iml
