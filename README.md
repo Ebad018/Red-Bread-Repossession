@@ -41,9 +41,7 @@ Test your reflexes in **duels** where the winner takes the bread (literally).
 
 ## 🚀 Getting Started
 
-1. Clone this repository  
-2. Open the project in **Unity 2022.3 LTS or later**
-3. Press **Play** and start dueling
+as of right Now the Game isn't Available to play Publicly
 
 ---
 
