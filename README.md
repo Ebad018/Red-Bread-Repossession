@@ -36,3 +36,34 @@ Test your reflexes in **duels** where the winner takes the bread (literally).
 3. Complete the sequence faster than your opponent to win the duel.
 
 ---
+
+---
+
+## 🚀 Getting Started
+
+1. Clone this repository  
+2. Open the project in **Unity 2022.3 LTS or later**
+3. Press **Play** and start dueling
+
+---
+
+## 📦 Releases
+
+Check the **[Releases](../../releases)** section for ready-to-play builds (if available).
+
+---
+
+## 🧑‍💻 Author
+
+**Ibad Ullah**  
+[GitHub Profile](https://github.com/Ebad018)
+
+---
+
+## ⚠️ Disclaimer
+
+This is a parody prototype not affiliated with Rockstar Games or Red Dead Redemption.
+
+---
+
+> _"Get the bread, leave the town."_
